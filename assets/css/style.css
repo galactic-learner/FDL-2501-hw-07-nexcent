@@ -87,7 +87,7 @@ a {
 }
 
 
- /* Assistive cover start (as cp - std later) */
+ /* Assistive cover start (std later) */
 
 #nav ul li a::before{
     content: '';
@@ -143,7 +143,7 @@ a {
     color: var(--brand-primary);
 }
 
- /* Assistive cover endss (as cp - std later) */
+ /* Assistive cover end (std later) */
 
 /* =============== NAVIGATION END ======================*/
 
